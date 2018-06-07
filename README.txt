@@ -1,0 +1,1 @@
+Implementation of the lithology estimation algorithm by Vinicius Medeiros Graciolli as submitted to Computers & Geosciences.
